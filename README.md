@@ -147,9 +147,14 @@ The focus of this project was on  clean UI/UX, clear architecture, and a review-
 
 ## App Screenshots
 
-<p align="center"> <img alt="List View" src="AppImages/1.png" width="25%" /> 
-<p align="center"> <img alt="List View" src="AppImages/2.png" width="25%" /> 
-<p align="center"> <img alt="List View" src="AppImages/3.png" width="25%" /> 
-<p align="center"> <img alt="List View" src="AppImages/4.png" width="25%" /> 
-<p align="center"> <img alt="List View" src="AppImages/5.png" width="25%" /> 
-<p align="center"> <img alt="List View" src="AppImages/6.png" width="25%" /> 
+<p align="center">
+    <img alt="List View" src="AppImages/1.png" width="25%" /> 
+    <img alt="List View" src="AppImages/2.png" width="25%" /> 
+    <img alt="List View" src="AppImages/3.png" width="25%" /> 
+</p>
+
+<p align="center">
+    <img alt="List View" src="AppImages/4.png" width="25%" /> 
+    <img alt="List View" src="AppImages/5.png" width="25%" /> 
+    <img alt="List View" src="AppImages/6.png" width="25%" /> 
+</p>
